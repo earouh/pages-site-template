@@ -1,4 +1,9 @@
-title: MICROSERVICES x AWS SERVERLESS x NODEJS
-description: desc_placeholder
-google_analytics: UA-168648421-1
 theme: jekyll-theme-cayman
+google_analytics: 
+title: SITE_TITLE
+description: desc_placeholder
+author: Earou Huang
+mail: earouhuang@gmail.com
+profile_intro: A software developer and snowboarder. Focus on building production-ready web services. Work with AWS, GCP and Kubernetes. Life is short, let's keep on coding.
+profile_url: https://www.linkedin.com/in/guan-wei-huang-
+profile_image: https://earou.dev/assets/avatar.jpg
