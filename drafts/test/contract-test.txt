@@ -1,0 +1,18 @@
+## Consumer Steps:
+
+1. packing contracts:
+    a. launch a mock server locally by Pact() . http://localhost:9003
+    b. provide behaviors (addInteraction)
+    c. send request to mock server
+    d. mock server catch the request and generate pact artifacts
+		
+2. upload contracts(pact artifacts) to broker server
+
+
+## Provider Steps:
+
+1. download pact contracts from broker server
+2. use the request/response in the contract to test current provider build
+
+https://docs.pact.io/#consumer-driven-contracts
+https://www.baeldung.com/pact-junit-consumer-driven-contracts
